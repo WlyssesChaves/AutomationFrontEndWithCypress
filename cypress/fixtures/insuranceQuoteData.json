@@ -1,0 +1,50 @@
+{
+  "vehicleData": {
+    "make": "Honda",
+    "model": "Moped",
+    "cylindercapacity": "1000", 
+    "enginePerformance": "1000",
+    "dateOfManufacture": "01/10/2020",
+    "numberOfSeats": "5",
+    "righthanddriveyes": "Yes",
+    "numberofseatsmotorcycle": "2",
+    "fuelType": "Gas",
+    "payload": "1000",
+    "totalweight": "25000",
+    "listPrice": "20000",
+    "licensePlateNumber": "ABC123",
+    "annualMileage": "5000"
+  },
+  "insurantData": {
+    "firstName": "Joao",
+    "lastName": "Cypress",
+    "dateOfBirth": "10/05/1995",
+    "gender": "male",
+    "streetAddress": "Rua do teste automatizado",
+    "country": "Brazil",
+    "zipcode": "12345",
+    "city": "João Pessoa",
+    "occupation": "Employee",
+    "hobbies": ["Speeding", "Skydiving"],
+    "website": "http://www.automationtests.com"
+  },
+  "productData": {
+    "startDate": "01/01/2025",
+    "insuranceSum": "3000000",
+    "meritRating": "Bonus 1",
+    "damageInsurance": "Partial Coverage",
+    "optionalProducts": ["EuroProtection", "LegalDefenseInsurance"],
+    "courtesyCar": "Yes"
+  },
+  "priceOption": {
+    "selection": "Gold"
+  },
+  "quoteData": {
+    "email": "cypress@automacao.com",
+    "phone": "1234567890",
+    "username": "cypress",
+    "password": "Cypres123!",
+    "comments": "No additional comments"
+  }
+}
+
