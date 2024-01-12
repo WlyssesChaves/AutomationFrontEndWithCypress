@@ -23,7 +23,7 @@ The following features of the Insurance Quote application have been automated:
 To set up the test environment, follow these steps:
 
 1. Clone the repository:
-git clone [<repository-url>](https://github.com/WlyssesChaves/desafioAccenture)
+git clone
 
 2. Install the dependencies:
 npm install
